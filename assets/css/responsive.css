@@ -1,6 +1,11 @@
 @media (max-width:728px) {
   
- 
+  .navbar-toggler {
+    font-size:20px;
+    color: #fff;
+    background-color: rgb(197, 176, 136);
+  }
+
    
 }
 @media (max-width:768px) {
